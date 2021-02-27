@@ -7,11 +7,11 @@ setup(
     description="Panel for the Django Debug toolbar to quickly switch between "
         "users.",
     version='0.1',
-    url='http://code.playfire.com/',
+    url='https://github.com/playfire/django-debug-toolbar-user-panel',
 
     author='Playfire.com',
     author_email='tech@playfire.com',
-    license='BSD',
+    license='BSD-3-Clause',
 
     packages=(
         'debug_toolbar_user_panel',
